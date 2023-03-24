@@ -1,4 +1,4 @@
-# COMP90086 Research Project: Stereo Disparity
+# Computer Vision Research Project: Stereo Disparity
  
 ## Guide
 ### Import the images.
